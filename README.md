@@ -41,12 +41,9 @@ const nasar = {
 ---
 
 ### 📈 stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abu103&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu103&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&hide=css,html)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu103&theme=github_dark)](https://github.com/Abu103)
 
 </div>
 
